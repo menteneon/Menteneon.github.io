@@ -1,0 +1,14 @@
+
+body {
+    background-color: darkred;
+}
+p {
+    color: rgb(204, 177, 0);
+    font-size: x-large;
+}
+h1 {
+    font-family: sans-serif
+}
+.escarcha {
+    font-size: 100px;
+}
